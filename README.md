@@ -17,6 +17,12 @@ The report should answer the following questions posed by the sales director:
 
 The report should be granular enough to include product information and center-meal combinations. The report should be visually appealing and interactive to allow the sales director to easily understand the level of demand for each centre and make informed decisions.
 
+# Approach
+Crafted interactive dashboard on **450k+ rows** dataset across **15 fields** using Power Query and DAX
+
+# Outcome
+Outcome Answered business related question like Total Sales, Total Orders, **Forecasting**, **Pareto Analysis** etc.
+
 
 # Main Dashboard
 ![image](https://user-images.githubusercontent.com/114581035/213843277-0c1e3dd1-1d40-4816-a973-b65d000939a3.png)
